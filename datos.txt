@@ -1,4 +1,4 @@
 x
 5.6
-10.7 (modificando desde el main)
+20 (ajustando conflicto)
 14.8
